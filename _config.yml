@@ -6,3 +6,5 @@ name: "Sangchoo1201"
 description: ""
 url: "https://sangchoo1201.github.io"
 baseurl: ""
+
+theme: jekyll-theme-slate
